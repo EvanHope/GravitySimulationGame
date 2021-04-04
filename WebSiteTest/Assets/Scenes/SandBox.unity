@@ -155,8 +155,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -102.32, y: 24.81}
-  m_SizeDelta: {x: 204.63, y: 49.61017}
+  m_AnchoredPosition: {x: -102.31, y: 17.97}
+  m_SizeDelta: {x: 204.63, y: 35.935364}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &73337577
 MonoBehaviour:
@@ -192,9 +192,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'LMB - Spawn and aim particles
 
-    RMB - Delete particles
-
-    ESC - Reset'
+    RMB - Delete particles'
 --- !u!222 &73337578
 CanvasRenderer:
   m_ObjectHideFlags: 0
