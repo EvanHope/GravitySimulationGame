@@ -245,7 +245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioManager: {fileID: 1040305212}
-  scaleSpeed: 0.01
+  scaleSpeed: 0.05
   mSpeed: 10
   spawningParticle: {fileID: 3416736885538787602, guid: 1ed27d7a3ba6a7f49a1aaa446e12d4ba,
     type: 3}
@@ -260,7 +260,7 @@ MonoBehaviour:
   yradius: 1
   cursorIndicator: {fileID: 4649609331725968993, guid: c7a01df284a22d8469bad10b7b874309,
     type: 3}
-  radiusGrowthSpeed: 0.01
+  radiusGrowthSpeed: 0.05
   maxRadius: 15
   line: {fileID: 387519624302253847}
   AC:
